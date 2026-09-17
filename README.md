@@ -99,5 +99,3 @@ The analysis identifies patterns and associations in the available data. These p
 
 **Chukwu Chinedu Charles**  
 B.Sc. Statistics | Junior Data Analyst
-
-I'm currently building my portfolio through practical projects while developing my skills across Excel, SQL, Python, and statistical analysis.
