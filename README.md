@@ -53,8 +53,12 @@ I then explored and prepared the data by checking for duplicates and records wit
 After preparing the data, I used PivotTables and calculated fields to investigate churn across different customer segments before presenting the main results in an Excel dashboard.
 
 ## Dashboard
+## Dashboard
+
+The dashboard provides an overview of customer churn, highlighting churn reasons, customer demographics, age groups, service usage, and plan-related patterns.
 
 ![Customer Churn Analysis Dashboard](images/customer_churn_dashboard.png)
+
 
 ## Key Findings
 
